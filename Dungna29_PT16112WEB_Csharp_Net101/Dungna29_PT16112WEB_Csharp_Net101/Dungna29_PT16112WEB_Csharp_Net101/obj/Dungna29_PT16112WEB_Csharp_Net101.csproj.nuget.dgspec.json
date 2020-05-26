@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LegendNguyen\\Desktop\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj": {}
+    "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\DemoC#\\trunk\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LegendNguyen\\Desktop\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj": {
+    "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\DemoC#\\trunk\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LegendNguyen\\Desktop\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj",
+        "projectUniqueName": "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\DemoC#\\trunk\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj",
         "projectName": "Dungna29_PT16112WEB_Csharp_Net101",
-        "projectPath": "C:\\Users\\LegendNguyen\\Desktop\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj",
+        "projectPath": "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\DemoC#\\trunk\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101.csproj",
         "packagesPath": "C:\\Users\\LegendNguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LegendNguyen\\Desktop\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\obj\\",
+        "outputPath": "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\DemoC#\\trunk\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\Dungna29_PT16112WEB_Csharp_Net101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LegendNguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",

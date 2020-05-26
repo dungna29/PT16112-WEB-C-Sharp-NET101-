@@ -2,7 +2,7 @@
 
 namespace Dungna29_PT16112WEB_Csharp_Net101
 {
-    class Program
+    class Bai1_LamQuenVisualStudio
     {
         private int a;
         private int b;
@@ -14,17 +14,14 @@ namespace Dungna29_PT16112WEB_Csharp_Net101
         // Ctrl + /  Comment code
         // Ctrl + Space : Gợi ý code
         // Code luôn chạy từ trên xuống dưới
-//        static void Main(string[] args)
-//        {
-//            // Console.WriteLine dùng để in ra màn hình
-//            Console.Write(tendung);
-//            Console.WriteLine(tendung);
-//            Console.WriteLine(tendung);
-//            Console.WriteLine(tendung);
-//            Console.WriteLine(tendung);
-//            
-//
-//
-//        }
+        static void Main(string[] args)
+        {
+            // Console.WriteLine dùng để in ra màn hình
+            Console.Write(tendung);
+            Console.WriteLine(tendung);
+            Console.WriteLine(tendung);
+            Console.WriteLine(tendung);
+            Console.WriteLine(tendung);
+        }
     }
 }
