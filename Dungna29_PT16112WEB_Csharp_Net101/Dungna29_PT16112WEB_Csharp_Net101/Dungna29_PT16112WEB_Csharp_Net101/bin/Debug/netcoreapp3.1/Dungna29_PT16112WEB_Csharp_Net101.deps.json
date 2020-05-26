@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dungna29_PT16112WEB_Csharp_Net101/1.0.0": {
+        "runtime": {
+          "Dungna29_PT16112WEB_Csharp_Net101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dungna29_PT16112WEB_Csharp_Net101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
