@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi1_LamQuen_VisualStudio"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_NhapXuatDuLieuTuBanPhim", "Buoi2_NhapXuatDuLieuTuBanPhim\Buoi2_NhapXuatDuLieuTuBanPhim.csproj", "{76C2AD3C-D723-4E85-BF06-595C57EEF86D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi3", "Buoi3\Buoi3.csproj", "{DBD1D5A6-B6FE-4C67-9AC7-CDCB2557C9C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76C2AD3C-D723-4E85-BF06-595C57EEF86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C2AD3C-D723-4E85-BF06-595C57EEF86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C2AD3C-D723-4E85-BF06-595C57EEF86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD1D5A6-B6FE-4C67-9AC7-CDCB2557C9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD1D5A6-B6FE-4C67-9AC7-CDCB2557C9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD1D5A6-B6FE-4C67-9AC7-CDCB2557C9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD1D5A6-B6FE-4C67-9AC7-CDCB2557C9C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
